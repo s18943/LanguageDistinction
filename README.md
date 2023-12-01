@@ -1,2 +1,2 @@
-# LengugeDestincor
-First comit, without saved trained perceptron state
+# LangDivide
+ Multilingual Language Distinctifier
